@@ -1,0 +1,11 @@
+/* src/App.css */
+.section {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.section h2 {
+  margin-top: 0;
+}
